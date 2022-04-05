@@ -1,0 +1,29 @@
+{
+
+ "array": [
+
+  {
+    "customer_id": 1,
+    "customer_mail": "bill@mail",
+    "customer_name": "Bill",
+
+    "customer_hobbies": [
+      "java",
+      "coffee",
+      "sleep"
+    ]
+  },
+  {
+  "customer_id": 2,
+  "customer_name": "Bill",
+  "customer_mail": "bill@mail",
+  "customer_hobbies": ["java", "coffee", "sleep"]
+  },
+  {
+  "customer_id": 30,
+  "customer_name": "Bill",
+  "customer_mail": "bill@mail",
+  "customer_hobbies": ["java", "coffee", "sleep"]
+  }
+ ]
+}
